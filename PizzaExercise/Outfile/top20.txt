@@ -1,0 +1,22 @@
+Topping:     Count:
+------------------------------------
+pepperoni :     4616
+mozzarella cheese :     1014
+four cheese :     956
+bacon :     732
+beef :     623
+sausage :     402
+italian sausage :     361
+chicken :     229
+four cheese,pepperoni :     203
+ham :     165
+mushrooms :     159
+mozzarella cheese,pepperoni :     155
+beef,pepperoni :     122
+bacon,pepperoni :     121
+black olives :     117
+alredo sauce :     101
+pepperoni,sausage :     96
+cheddar cheese :     95
+italian sausage,pepperoni :     85
+pineapple :     79
