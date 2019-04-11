@@ -18,7 +18,6 @@ namespace PizzaExercise
         private IConfiguration config { get; }
         private static string fileLocation;
         private static string outputFilePath;
-
         public FindPopularCombination(IConfiguration configuration)
         {
             config = configuration;

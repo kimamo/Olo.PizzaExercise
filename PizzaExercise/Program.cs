@@ -13,7 +13,6 @@ namespace PizzaExercise
 
             var container = builder.Build();
             var service = container.Resolve<IFindPopularCombination>();
-
             service.FindCombinationAsync();
         }
     }
